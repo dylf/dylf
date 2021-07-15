@@ -5,7 +5,7 @@
 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=dylf&theme=tokyonight&show_icons=true&include_all_commits=true&custom_title=My%20Github%20Stats)](https://github.com/dylf)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylf&theme=tokyonight&layout=compact)](https://github.com/dylf/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylf&theme=tokyonight&layout=compact)](https://github.com/dylf)
 
 ___
 
