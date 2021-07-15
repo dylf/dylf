@@ -1,6 +1,7 @@
-## Hey 👋, This is Dylan Fontaine 
 
- 👨‍💻 I'm a full stack Software Team Lead at [Acro Media](https://www.acromedia.com/)
+![Hello There](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
+
+ 👨‍💻 I'm Dylan and I am a full stack Software Team Lead over at [Acro Media](https://www.acromedia.com/)
 
 ___
 
