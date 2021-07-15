@@ -7,8 +7,10 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=dylf&theme=tokyonight&show_icons=true&include_all_commits=true&custom_title=My%20Github%20Stats)](https://github.com/dylf)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylf&theme=tokyonight&layout=compact)](https://github.com/dylf)
 
+<!-- Something is up with these ones
 ___
 
 ![GitHub followers](https://img.shields.io/github/followers/dylf?color=%23628fda&label=follow%20me&logo=github&logoColor=%23be90f2&style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/DylanJFontaine?color=%23628fda&label=%40DylanJFontaine&logo=twitter&logoColor=%23be90f2&style=for-the-badge)
 
+-->
