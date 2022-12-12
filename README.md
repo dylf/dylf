@@ -10,14 +10,14 @@
 <a href="https://github.com/dylf">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=dylf&theme=tokyonight&show_icons=true&include_all_commits=true&custom_title=My%20Github%20Stats&count_private=true&line_height=20&text_bold=false"
+      srcset="https://github-readme-stats.vercel.app/api?username=dylf&theme=tokyonight&show_icons=true&include_all_commits=true&custom_title=My%20Github%20Stats&count_private=true&line_height=20&text_bold=false&hide_rank=true&card_width=290"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=dylf&theme=beufy&show_icons=true&include_all_commits=true&custom_title=My%20Github%20Stats&count_private=true&line_height=20&text_bold=false"
+      srcset="https://github-readme-stats.vercel.app/api?username=dylf&theme=buefy&show_icons=true&include_all_commits=true&custom_title=My%20Github%20Stats&count_private=true&line_height=20&text_bold=false&hide_rank=true&card_width=290"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dylf&theme=tokyonight&show_icons=true&include_all_commits=true&custom_title=My%20Github%20Stats&count_private=true&line_height=20&text_bold=false" alt="GitHub Statistics" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dylf&theme=tokyonight&show_icons=true&include_all_commits=true&custom_title=My%20Github%20Stats&count_private=true&line_height=20&text_bold=false&hide_rank=true&card_width=290" alt="GitHub Statistics" />
   </picture>
 </a>
 <a href="https://github.com/dylf?tab=repositories">
@@ -27,7 +27,7 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dylf&theme=beufy&layout=compact&hide=c%23,css"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dylf&theme=buefy&layout=compact&hide=c%23,css"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylf&theme=tokyonight&layout=compact&hide=c%23,css" alt="Languages used" />
