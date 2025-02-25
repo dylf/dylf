@@ -3,7 +3,7 @@
 
 </p>
 <p align="center">
- 👨‍💻 I'm Dylan and I am a Software Architect @ <a href="https://www.acromedia.com/">Acro Media <img src="https://www.acromedia.com/assets/graphics/favicon-32x32.png" width="20px" height="20px" align="top" /></a>
+ 👨‍💻 I'm Dylan and I am a Software Engineer @ Wizards of the Coast <img src="[https://www.acromedia.com/assets/graphics/favicon-32x32.png](https://company.wizards.com/assets/favicon.ico)" width="20px" height="20px" align="top" />
  </p>
 
 <p align="center">
